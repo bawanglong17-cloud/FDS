@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+
+# Data and outputs
+data/
+dataset/
+datasets/
+runs/
+logs/
+checkpoints/
+outputs/
+*.pth
+*.pt
+*.onnx
+*.zip
+*.tar
+*.tar.gz
